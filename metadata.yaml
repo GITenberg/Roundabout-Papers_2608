@@ -1,0 +1,55 @@
+_repo: Roundabout-Papers_2608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: 'Roundabout papers. On a lazy idle boy ; On two children in black ; On
+  ribbons ; On some late great Victorians ; Thorns in the cushion ; On screens in
+  dining-rooms ; Tunbridge toys ; De juventute ; On a joke I once heard from the late
+  Thomas Hood ; Round about the Christmas tree ; On a chalk-mark on the door ; On
+  being found out ; On a hundred years hence ; Small-beer chronicle ; Ogres ; On two
+  roundabout papers which I intend to write ; A Mississippi bubble ; On Lett''s diary
+  ; Notes of a week''s holiday ; Nil nisi bonum ; On half a loaf : a letter to Messrs.
+  Broadway, Battery and Co., of New York, Bankers ; The notch on the Axe : a story
+  à la mode ; De finibus ; On a peal of bells ; On a pear-tree ; Dessein''s ; On some
+  carp at Sans Souci ; Autour de mon chapeau ; On Alexandrines : a letter to some
+  country cousins ; On a medal of George the Fourth ; "Strange to say, on Club Paper"
+  ; The last sketch -- The second funeral of Napolean. On the disinterment of Napoleon
+  at St. Helena ; On the voyage from St. Helena to Paris ; On the funeral ceremony
+  -- Critical reviews. George Cruikshank ; John Leech''s pictures of life and character.'
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 19th century'
+- !lcsh 'Great Britain -- Social life and customs'
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'On a lazy idle boy -- On two children in black -- On ribbons --
+  On some late great victories -- Thorns in the cushion -- On screens in dining-rooms
+  -- Tunbridge toys -- De juventute -- On a joke I once heard from the late Thomas
+  Hood -- Round about the Christmas tree -- On a chalk-mark on the door -- On being
+  found out -- On a hundred years hence -- Small-beer chronicle -- Ogres -- On two
+  roundabout papers which I intend to write -- A Mississippi bubble -- On Letts''s
+  diary -- Notes of a week''s holiday -- Nil nisi bonum -- On half a loaf: A letter
+  to Messrs. Broadway, Battery and Co., of New York, Bankers -- The notch on the Axe:
+  a story à la mode -- De finibus -- On a peal of bells -- On a pear-tree -- Dessein''s
+  -- On some carp at Sans Souci -- Autour de mon chapeau -- On Alexandrines: a letter
+  to some country cousins -- On a medal of George the Fourth -- "Strange to say, on
+  Club paper" -- The last sketch.'
+title: Roundabout Papers
+url: http://www.gutenberg.org/ebooks/2608

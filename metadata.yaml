@@ -1,5 +1,8 @@
 _repo: Roundabout-Papers_2608
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -25,6 +28,8 @@ description: 'Roundabout papers. On a lazy idle boy ; On two children in black ;
   ; The last sketch -- The second funeral of Napolean. On the disinterment of Napoleon
   at St. Helena ; On the voyage from St. Helena to Paris ; On the funeral ceremony
   -- Critical reviews. George Cruikshank ; John Leech''s pictures of life and character.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2608#Roundabout-Papers
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
 identifiers:
